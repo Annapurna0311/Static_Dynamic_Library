@@ -14,7 +14,7 @@ Libraries are reusable code packages that can be imported into programs to utili
 1. Code Reusability
 2. Encapsulation
 3. Standardization
-# How to use
+# How to create and use static library
 1. Open an IDE and create a header file with the .h a and declaring the functions that we want to have in the library.Now, create another file that is the source code file with .cpp extension and write the function body of the function that we declared in the header file.
      Header File name: math_operations.h
 
@@ -37,3 +37,4 @@ Libraries are reusable code packages that can be imported into programs to utili
 7. Output
 
    ![image](https://github.com/user-attachments/assets/fbe52991-44c3-40ca-bcec-7cf3392e061b)
+# How to create and use dynamic library
