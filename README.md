@@ -1,16 +1,16 @@
 # Static_Dynamic_Library
 Libraries are reusable code packages that can be imported into programs to utilize pre-defined functionalities. In C++, libraries can be classified as either static or dynamic. Static libraries are linked to the program during the compilation process, whereas dynamic libraries are linked at runtime. One benefit of dynamic libraries is that they are not included in the executable file, which helps keep the executable size smaller. In this project, we will explore the process of creating a library in C++ that can be used in Competitive Programming to increase efficiency. 
 # Importance
-Static Libraries:
+   # Static Libraries:
 1. Performance
 2. Portability
 3. Simplicity
-Dynamic Libraries:
+   # Dynamic Libraries:
 1. Reduced Memory Usage
 2. Modularity
 3. Smaller Executable Size
 4. Flexibility ensurance at runtime
-General Importance:
+   # General Importance:
 1. Code Reusability
 2. Encapsulation
 3. Standardization
