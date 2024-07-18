@@ -5,12 +5,12 @@ Libraries are reusable code packages that can be imported into programs to utili
 1. Performance
 2. Portability
 3. Simplicity
-   # Dynamic Libraries:
+# Dynamic Libraries:
 1. Reduced Memory Usage
 2. Modularity
 3. Smaller Executable Size
 4. Flexibility ensurance at runtime
-   # General Importance:
+# General Importance:
 1. Code Reusability
 2. Encapsulation
 3. Standardization
